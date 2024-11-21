@@ -40,11 +40,11 @@ I am a second year student in MNIT JAIPUR .I know many of languages like c++,pyt
 - Project Completion Certificate for ***diagonis heart problems*** using machine learning
 ---
 ## CONTACT INFO
-- NAME - SIMRAN
-- MOBILE NUMBER - 94620XXXXX
-- EMAIL ID -2023UCP1610@mnit.ac.in
-- ADDRESS -  Near Old Court Singhana , Rajasthan
-- LINKED IN-[CLICK HERE TO OPEN MY LINKED IN PROFILE](https://www.bing.com/search?filters=ufn%3a%22LinkedIn%22+sid%3a%22401e29b7-e564-7d0a-69dd-4aeff23c198d%22&pglt=297&q=linkedin&cvid=00af119986294ab9a8bd1ea57ca3d813&gs_lcrp=EgRlZGdlKgYIARAuGEAyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEC4YQDIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQgyNDU0ajBqMagCALACAA&FORM=ANNTA1&PC=U531)
+- **NAME:** - SIMRAN
+- **MOBILE NUMBER:** - 94620XXXXX
+- **EMAIL ID:** -2023UCP1610@mnit.ac.in
+- **ADDRESS:** -  Near Old Court Singhana , Rajasthan
+- **LINKED IN:**-[CLICK HERE TO OPEN MY LINKED IN PROFILE](https://www.bing.com/search?filters=ufn%3a%22LinkedIn%22+sid%3a%22401e29b7-e564-7d0a-69dd-4aeff23c198d%22&pglt=297&q=linkedin&cvid=00af119986294ab9a8bd1ea57ca3d813&gs_lcrp=EgRlZGdlKgYIARAuGEAyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEC4YQDIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQgyNDU0ajBqMagCALACAA&FORM=ANNTA1&PC=U531)
 
 
 
